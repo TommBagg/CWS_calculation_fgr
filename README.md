@@ -1,7 +1,7 @@
 # data_preparation_fgr
 Algorithms to derive input dataset from LiDAR data and to run forest wind susceptibility calculation in fgr
 
-Author details: Tommaso Baggio, Maximiliano Costa, Niccolò Marchi. 
+Author details: Tommaso Baggio, Maximiliano Costa, Niccolò Marchi. Email contact: tommaso.baggio@unipd.it
 
 Copyright statement: This script is the product of the work of Tommaso Baggio, Maximiliano Costa, Niccolò Marchi.
 
